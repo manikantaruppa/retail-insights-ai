@@ -580,7 +580,7 @@ For issues or questions:
 
 ## 📄 License
 
-This project is created for the Blend360 Gen-AI interview assignment.
+This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## 🙏 Acknowledgments
 
